@@ -2,6 +2,8 @@
 
 Wor(l)d GN are the distributors of the health-monitoring wearable device called the *HELO*.
 
+<h1> Markup Test </h1>
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
