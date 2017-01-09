@@ -2,7 +2,7 @@
 
 Wor(l)d GN are the distributors of the health-monitoring wearable device called the *HELO*.
 
-<h1> Markup Test </h1>
+<h2> Markup Test </h2>
 
 ### Markdown
 
